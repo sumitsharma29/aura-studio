@@ -1,8 +1,20 @@
 # 🌌 AURA Studio : The Infinite Creative Suite
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucide-react/lucide/main/icons/sparkles.svg" width="80" height="80" />
+  <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' style='stop-color:%23af52de;stop-opacity:1'/><stop offset='100%25' style='stop-color:%23007aff;stop-opacity:1'/></linearGradient></defs><circle cx='50' cy='50' r='45' fill='url(%23g)' opacity='0.8'/><path d='M28 72L50 28L72 72 M36 60L64 60' stroke='white' stroke-width='6' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>" width="120" height="120" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AURA-Studio-blueviolet?style=for-the-badge&logo=aura" />
+  <img src="https://img.shields.io/badge/Version-Infinite-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered_by-React-61DAFB?style=for-the-badge&logo=react" />
+</p>
+
+---
+
+## 🎨 Visual Preview
+
+![AURA Studio Interface](aura-studio-preview.png)
 
 > **"Experience the Art of the Infinite."**  
 > AURA Studio is a professional-grade vector drawing application that redefines the digital canvas. Designed for artisans, engineers, and visionaries, AURA provides a boundless environment where ideas flow without compromise.
@@ -19,12 +31,6 @@ Your creativity doesn't fit in a box. AURA provides an **unrestricted worksheet*
 *   **Magic Pen (Auto-Draw)**: Sketch loose ideas and watch them instantly transmute into perfect geometric shapes using our intelligent recognition system.
 *   **Smart Bucket**: Effortlessly fill backgrounds and objects with curated, harmonious gradients and tints designed for modern aesthetics.
 
-### 📝 Pro Text Suite
-A high-fidelity inline text editor inspired by professional word processors.
-*   **Typography Control**: Choose from curated font families (Inter, Roboto, Outfit).
-*   **Rich Formatting**: Dynamic control over font weight, italicization, and alignment.
-*   **Real-time Scaling**: Text nodes scale elegantly using our 8-point transform logic.
-
 ---
 
 ## 🚀 Pro Features at a Glance
@@ -34,7 +40,6 @@ A high-fidelity inline text editor inspired by professional word processors.
 | **Infinite Sheet** | Full navigation mastery with zero boundaries. |
 | **Asset Library** | A curated collection of stamps, emojis, and high-fidelity components. |
 | **Arrangement HUD** | Advanced layering system: Front, Back, Forward, and Backward. |
-| **Dynamic Palette** | Real-time color synchronization across all tools and gradients. |
 | **Export Suite** | Save your masterpieces in high-quality PNG or print-ready PDF formats. |
 | **Dark Mode** | A cinematic, eye-friendly theme for deep creative focus. |
 
@@ -42,28 +47,22 @@ A high-fidelity inline text editor inspired by professional word processors.
 
 ## 🛠️ The Tech Stack
 
-AURA Studio is built on the bleeding edge of web technology:
-*   **React 18**: Theoretical and practical state management for high-performance UIs.
-*   **Rough.js**: Bringing a unique, human-centric aesthetic to digital vectors.
-*   **Framer Motion**: Choreographing every micro-interaction and cinematic transition.
-*   **Canvas API**: Low-level rendering for optimal performance across billions of pixels.
-*   **Lucide React**: Precision-engineered iconography throughout the suite.
+*   **React 18** - Theory meets scale.
+*   **Rough.js** - Human-centric vector aesthetics.
+*   **Framer Motion** - Cinematic UI choreography.
+*   **Canvas API** - High-performance pixel manipulation.
+*   **Lucide React** - Precision iconography.
 
 ---
 
 ## ⚡ Ignition Sequence
 
-Get AURA Studio running locally in seconds:
-
-1.  **Clone the Vision**
+1.  **Clone & Install**
     ```bash
     git clone https://github.com/sumitsharma29/aura-studio.git
-    ```
-2.  **Install Dependencies**
-    ```bash
     npm install
     ```
-3.  **Launch the Studio**
+2.  **Launch the Studio**
     ```bash
     npm run dev
     ```
